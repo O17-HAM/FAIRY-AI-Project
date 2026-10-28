@@ -1,0 +1,4 @@
+Flask
+google-genai
+edge-tts
+python-dotenv
